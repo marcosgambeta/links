@@ -34,6 +34,9 @@ Boost C++ Libraries
 
 ## C
 
+https://en.wikipedia.org/wiki/C_(programming_language)  
+https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)  
+
 ## C compilers
 
 ## Harbour/xHarbour
