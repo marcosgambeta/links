@@ -18,6 +18,11 @@ Clang
 https://www.embarcadero.com/  
 Embarcadero C++ compiler
 
+## C++ libraries
+
+https://www.boost.org/  
+Boost C++ Libraries  
+
 ## C++ books
 
 https://github.com/changkun/modern-cpp-tutorial  
@@ -27,10 +32,18 @@ Modern C++ Tutorial: C++11/14/17/20 On the Fly
 
 ## C++ GitHub
 
-## C++ libraries
+## C++ Youtube Channels
 
-https://www.boost.org/  
-Boost C++ Libraries  
+https://www.youtube.com/@cppweekly  
+C++ Weekly With Jason Turner  
+https://www.youtube.com/@CppNuts  
+CppNuts  
+https://www.youtube.com/@CodeBeauty  
+CodeBeauty  
+https://www.youtube.com/@JudSan  
+Judson Santiago  
+https://www.youtube.com/@CppCon  
+CppCon  
 
 ## C
 
