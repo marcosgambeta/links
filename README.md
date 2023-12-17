@@ -14,17 +14,23 @@ Visual C++
 https://gcc.gnu.org/  
 GCC, the GNU Compiler Collection  
 https://clang.llvm.org/  
-Clang
+Clang  
+https://www.embarcadero.com/  
+Embarcadero C++ compiler
 
 ## C++ books
 
+https://github.com/changkun/modern-cpp-tutorial  
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf  
 https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub  
 Modern C++ Tutorial: C++11/14/17/20 On the Fly  
 
 ## C++ GitHub
 
-https://github.com/changkun/modern-cpp-tutorial  
+## C++ libraries
+
+https://www.boost.org/  
+Boost C++ Libraries  
 
 ## C
 
