@@ -30,6 +30,12 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub  
 Modern C++ Tutorial: C++11/14/17/20 On the Fly  
 
+## C++ references
+
+https://en.cppreference.com/w/  
+https://cplusplus.com/  
+https://learn.microsoft.com/en-us/cpp/  
+
 ## C++ GitHub
 
 ## C++ Youtube Channels
