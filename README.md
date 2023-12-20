@@ -23,6 +23,14 @@ https://www.embarcadero.com/
 
 Boost C++ Libraries  
 https://www.boost.org/  
+POCO C++ Libraries  
+https://pocoproject.org/index.html  
+Qt Framework  
+https://www.qt.io/  
+OpenCV  
+https://opencv.org/  
+Asio C++ Library  
+https://think-async.com/Asio/  
 
 ## C++ books
 
