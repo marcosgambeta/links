@@ -16,7 +16,7 @@ GCC, the GNU Compiler Collection
 https://gcc.gnu.org/  
 Clang  
 https://clang.llvm.org/  
-Embarcadero C++ compiler
+Embarcadero C++ compiler  
 https://www.embarcadero.com/  
 
 ## C++ libraries
