@@ -75,6 +75,15 @@ https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
 C++ Programming  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
 
+## C++ Youtube Full Courses
+
+C++ Programming Course - Beginner to Advanced (Learn C++ in 31 hours)  
+https://www.youtube.com/watch?v=8jLOx1hD3_o  
+C++ FULL COURSE For Beginners (Learn C++ in 10 hours)  
+https://www.youtube.com/watch?v=GQp1zzTwrIg  
+C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours)  
+https://www.youtube.com/watch?v=kiUGf_Z08RQ  
+
 ## C
 
 Wikipedia  
