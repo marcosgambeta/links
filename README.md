@@ -19,6 +19,13 @@ https://clang.llvm.org/
 Embarcadero C++ compiler  
 https://www.embarcadero.com/  
 
+## C++ Online Compilers
+
+Compiler Exploder  
+https://godbolt.org/  
+C++ shell  
+https://cpp.sh/  
+
 ## C++ libraries
 
 Boost C++ Libraries  
@@ -44,8 +51,12 @@ https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub
 https://en.cppreference.com/w/  
 https://cplusplus.com/  
 https://learn.microsoft.com/en-us/cpp/  
+https://www.cprogramming.com/  
 
 ## C++ GitHub
+
+CppCon  
+https://github.com/CppCon  
 
 ## C++ Youtube Channels
 
