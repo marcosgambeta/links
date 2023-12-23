@@ -8,7 +8,7 @@ Wikipedia
 https://en.wikipedia.org/wiki/C%2B%2B  
 https://pt.wikipedia.org/wiki/C%2B%2B  
 
-## C++ compilers
+### C++ compilers
 
 Visual C++  
 https://visualstudio.microsoft.com/  
@@ -19,14 +19,14 @@ https://clang.llvm.org/
 Embarcadero C++ compiler  
 https://www.embarcadero.com/  
 
-## C++ Online Compilers
+### C++ Online Compilers
 
 Compiler Exploder  
 https://godbolt.org/  
 C++ shell  
 https://cpp.sh/  
 
-## C++ libraries
+### C++ libraries
 
 Boost C++ Libraries  
 https://www.boost.org/  
@@ -39,26 +39,28 @@ https://opencv.org/
 Asio C++ Library  
 https://think-async.com/Asio/  
 
-## C++ books
+### C++ books
 
 Modern C++ Tutorial: C++11/14/17/20 On the Fly  
 https://github.com/changkun/modern-cpp-tutorial  
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf  
 https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub  
 
-## C++ references
+### C++ references
 
 https://en.cppreference.com/w/  
 https://cplusplus.com/  
 https://learn.microsoft.com/en-us/cpp/  
 https://www.cprogramming.com/  
 
-## C++ GitHub
+### C++ GitHub
 
 CppCon  
 https://github.com/CppCon  
+Judson Santiago (JudsonSS)  
+https://github.com/JudsonSS  
 
-## C++ Youtube Channels
+### C++ Youtube Channels
 
 C++ Weekly With Jason Turner  
 https://www.youtube.com/@cppweekly  
@@ -71,7 +73,7 @@ https://www.youtube.com/@JudSan
 CppCon  
 https://www.youtube.com/@CppCon  
 
-## C++ Youtube Playlists
+### C++ Youtube Playlists
 
 Curso de C++  
 https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40  
@@ -86,7 +88,7 @@ https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG
 C++ Programming  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
 
-## C++ Youtube Full Courses
+### C++ Youtube Full Courses
 
 C++ Programming Course - Beginner to Advanced (Learn C++ in 31 hours)  
 https://www.youtube.com/watch?v=8jLOx1hD3_o  
@@ -101,10 +103,21 @@ Wikipedia
 https://en.wikipedia.org/wiki/C_(programming_language)  
 https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)  
 
-## C compilers
+### C compilers
+
+Pelles C  
+http://www.smorgasbordet.com/pellesc/  
 
 ## Harbour/xHarbour
 
 https://github.com/harbour/core  
 https://github.com/vszakats/hb  
 https://github.com/xHarbour-org/xharbour  
+
+## Rust
+
+Rust  
+https://www.rust-lang.org  
+Wikipedia  
+https://en.wikipedia.org/wiki/Rust_(programming_language)  
+https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)  
