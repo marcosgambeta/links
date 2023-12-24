@@ -130,3 +130,5 @@ https://www.rust-lang.org
 Wikipedia  
 https://en.wikipedia.org/wiki/Rust_(programming_language)  
 https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)  
+Rust By Practice  
+https://practice.rs/why-exercise.html  
