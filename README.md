@@ -45,6 +45,8 @@ Modern C++ Tutorial: C++11/14/17/20 On the Fly
 https://github.com/changkun/modern-cpp-tutorial  
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf  
 https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub  
+Fundamentals of C++ Programming  
+http://python.cs.southern.edu/cppbook/progcpp.pdf  
 
 ### C++ references
 
@@ -52,6 +54,8 @@ https://en.cppreference.com/w/
 https://cplusplus.com/  
 https://learn.microsoft.com/en-us/cpp/  
 https://www.cprogramming.com/  
+http://www.fredosaurus.com/notes-cpp/  
+http://www.parashift.com/c++-faq-lite/  
 
 ### C++ GitHub
 
@@ -107,6 +111,11 @@ https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)
 
 Pelles C  
 http://www.smorgasbordet.com/pellesc/  
+
+### C Books
+
+The C Book  
+https://publications.gbdirect.co.uk//c_book/  
 
 ## Harbour/xHarbour
 
