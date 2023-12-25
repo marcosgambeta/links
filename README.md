@@ -56,6 +56,8 @@ https://learn.microsoft.com/en-us/cpp/
 https://www.cprogramming.com/  
 http://www.fredosaurus.com/notes-cpp/  
 http://www.parashift.com/c++-faq-lite/  
+C++ Tutorial  
+https://www.tutorialspoint.com/cplusplus/index.htm  
 
 ### C++ GitHub
 
@@ -106,6 +108,8 @@ https://www.youtube.com/watch?v=kiUGf_Z08RQ
 Wikipedia  
 https://en.wikipedia.org/wiki/C_(programming_language)  
 https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)  
+C Tutorial  
+https://www.tutorialspoint.com/cprogramming/index.htm  
 
 ### C compilers
 
@@ -132,3 +136,5 @@ https://en.wikipedia.org/wiki/Rust_(programming_language)
 https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programa%C3%A7%C3%A3o)  
 Rust By Practice  
 https://practice.rs/why-exercise.html  
+Rust Tutorial  
+https://www.tutorialspoint.com/rust/index.htm  
