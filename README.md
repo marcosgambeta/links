@@ -98,6 +98,8 @@ C++ Programming
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
 Pointers in C/C++ - Full Course for Beginners  
 https://www.youtube.com/playlist?list=PLNS1KmEq_4oglPRNYEy710uJVHRriwkXQ  
+Learn C++ With Me  
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3  
 
 ### C++ Youtube Full Courses
 
@@ -159,3 +161,26 @@ Rust By Practice
 https://practice.rs/why-exercise.html  
 Rust Tutorial  
 https://www.tutorialspoint.com/rust/index.htm  
+
+### Rust Youtube Channels
+
+Let's Get Rusty  
+https://www.youtube.com/@letsgetrusty  
+
+### Rust Youtube Playlists
+
+Rust Programming Tutorial  
+https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ  
+The Rust Lang Book  
+https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8  
+
+### Rust Youtube Full Courses
+
+Learn Rust Programming - Complete Course  
+https://www.youtube.com/watch?v=BpPEoZW5IiY  
+Rust Tutorial Full Course  
+https://www.youtube.com/watch?v=ygL_xcavzQ4  
+Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises - Zero To Mastery  
+https://www.youtube.com/watch?v=lzKeecy4OmQ  
+Rust Programming Course for Beginners - Tutorial  
+https://www.youtube.com/watch?v=MsocPEZBd-M  
