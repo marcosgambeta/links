@@ -58,6 +58,7 @@ http://www.fredosaurus.com/notes-cpp/
 http://www.parashift.com/c++-faq-lite/  
 C++ Tutorial  
 https://www.tutorialspoint.com/cplusplus/index.htm  
+https://thispointer.com/  
 
 ### C++ GitHub
 
@@ -78,6 +79,8 @@ Judson Santiago
 https://www.youtube.com/@JudSan  
 CppCon  
 https://www.youtube.com/@CppCon  
+thisPointer Academy  
+https://www.youtube.com/@thispointeracademy  
 
 ### C++ Youtube Playlists
 
@@ -93,6 +96,8 @@ C++ Tutorials
 https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG  
 C++ Programming  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
+Pointers in C/C++ - Full Course for Beginners  
+https://www.youtube.com/playlist?list=PLNS1KmEq_4oglPRNYEy710uJVHRriwkXQ  
 
 ### C++ Youtube Full Courses
 
@@ -102,6 +107,8 @@ C++ FULL COURSE For Beginners (Learn C++ in 10 hours)
 https://www.youtube.com/watch?v=GQp1zzTwrIg  
 C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours)  
 https://www.youtube.com/watch?v=kiUGf_Z08RQ  
+C++ Full Course for free  
+https://www.youtube.com/watch?v=-TkoO8Z07hI  
 
 ## C
 
@@ -120,6 +127,20 @@ http://www.smorgasbordet.com/pellesc/
 
 The C Book  
 https://publications.gbdirect.co.uk//c_book/  
+
+### C Youtube Channels
+
+### C Youtube Playlists
+
+Pointers in C/C++ - Full Course for Beginners  
+https://www.youtube.com/playlist?list=PLNS1KmEq_4oglPRNYEy710uJVHRriwkXQ  
+
+### C Youtube Full Courses
+
+Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)  
+https://www.youtube.com/watch?v=j-_s8f5K30I&t=14602s  
+C Programming Full Course for free   
+https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4021s  
 
 ## Harbour/xHarbour
 
