@@ -47,6 +47,8 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub  
 Fundamentals of C++ Programming  
 http://python.cs.southern.edu/cppbook/progcpp.pdf  
+The C++ Workshop  
+https://www.packtpub.com/free-ebook/the-c-workshop/9781839216626  
 
 ### C++ references
 
@@ -134,6 +136,8 @@ https://www.glfw.org/
 
 The C Book  
 https://publications.gbdirect.co.uk//c_book/  
+Extreme C  
+https://www.packtpub.com/free-ebook/extreme-c/9781789343625  
 
 ### C Youtube Channels
 
