@@ -173,6 +173,8 @@ Rust By Practice
 https://practice.rs/why-exercise.html  
 Rust Tutorial  
 https://www.tutorialspoint.com/rust/index.htm  
+Rust Maven  
+https://rust.code-maven.com/  
 
 ### Rust Youtube Channels
 
