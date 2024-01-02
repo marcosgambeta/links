@@ -111,6 +111,8 @@ Pointers in C/C++ - Full Course for Beginners
 https://www.youtube.com/playlist?list=PLNS1KmEq_4oglPRNYEy710uJVHRriwkXQ  
 Learn C++ With Me  
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3  
+C++ Programming (Neso Academy)  
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
 
 ### C++ Youtube Full Courses
 
@@ -154,6 +156,10 @@ https://www.packtpub.com/free-ebook/extreme-c/9781789343625
 
 Pointers in C/C++ - Full Course for Beginners  
 https://www.youtube.com/playlist?list=PLNS1KmEq_4oglPRNYEy710uJVHRriwkXQ  
+C Programming (Neso Academy)  
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR  
+C Programming & Data Structures (Neso Academy)  
+https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM  
 
 ### C Youtube Full Courses
 
