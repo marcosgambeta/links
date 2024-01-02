@@ -88,6 +88,8 @@ CppCon
 https://www.youtube.com/@CppCon  
 thisPointer Academy  
 https://www.youtube.com/@thispointeracademy  
+CppNorth  
+https://www.youtube.com/@cppnorth  
 
 ### C++ Youtube Playlists
 
@@ -158,11 +160,35 @@ https://www.youtube.com/watch?v=j-_s8f5K30I&t=14602s
 C Programming Full Course for free   
 https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4021s  
 
-## Harbour/xHarbour
+## xBase (Harbour/xHarbour/Clipper/others)
 
 https://github.com/harbour/core  
 https://github.com/vszakats/hb  
 https://github.com/xHarbour-org/xharbour  
+
+### xBase Youtube Channels
+
+All-About-Code  
+https://www.youtube.com/@all-about-code9676  
+dBaseLLC  
+https://www.youtube.com/@dBaseLLC  
+Ivanil Marcelino  
+https://www.youtube.com/@IvanilMarcelino  
+Ricardo Mansano  
+https://www.youtube.com/@RicardoMansano  
+Terminal De Informação  
+https://www.youtube.com/@TerminalDeInformacao  
+
+### xBase Youtube Playlists
+
+Harbour Programação  
+https://www.youtube.com/playlist?list=PLCAIJVG43dhBdadAyxcUpVm-GnXF48KmZ  
+Curso Clipper PCTOLEDO  
+https://www.youtube.com/playlist?list=PLCAIJVG43dhDSy09dI8Is0nNto05irdZI  
+Designer Minigui - Migração DBF para SQL  
+https://www.youtube.com/playlist?list=PLK0WK4h0-ohQ8FrMVVRhHa-QAeT0HFHs1  
+Maratona de exemplos  
+https://www.youtube.com/playlist?list=PLmZqxxAAT-tFKbvfDHWCmZ2NzhaawoTlO  
 
 ## Rust
 
@@ -207,3 +233,32 @@ Learn Delphi
 https://learndelphi.org/  
 Marco Cantu  
 https://www.marcocantu.com/  
+
+## Go
+
+Go  
+https://go.dev/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Go_(programming_language)  
+https://pt.wikipedia.org/wiki/Go_(linguagem_de_programa%C3%A7%C3%A3o)  
+
+### Go Youtube Channels
+
+Aprenda Golang  
+https://www.youtube.com/@AprendaGolang  
+
+### Go Youtube Playlists
+
+Aprenda Go  
+https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg  
+Aprenda Go do zero  
+https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg  
+
+### Go Youtube Full Courses
+
+Golang Tutorial for Beginners - Full Go Course  
+https://www.youtube.com/watch?v=yyUHQIec83I  
+Learn Go Programming by Building 11 Projects – Full Course  
+https://www.youtube.com/watch?v=jFfo23yIWac  
+Learn Go Programming - Golang Tutorial for Beginners  
+https://www.youtube.com/watch?v=YS4e4q9oBaU  
