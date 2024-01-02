@@ -90,6 +90,8 @@ thisPointer Academy
 https://www.youtube.com/@thispointeracademy  
 CppNorth  
 https://www.youtube.com/@cppnorth  
+Meeting Cpp  
+https://www.youtube.com/@MeetingCPP  
 
 ### C++ Youtube Playlists
 
