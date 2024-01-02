@@ -167,6 +167,8 @@ Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)
 https://www.youtube.com/watch?v=j-_s8f5K30I&t=14602s  
 C Programming Full Course for free   
 https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4021s  
+C Programming for Beginners - Full Course  
+https://www.youtube.com/watch?v=ssJY5MDLjlo  
 
 ## xBase (Harbour/xHarbour/Clipper/others)
 
