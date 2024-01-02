@@ -62,6 +62,8 @@ http://www.parashift.com/c++-faq-lite/
 C++ Tutorial  
 https://www.tutorialspoint.com/cplusplus/index.htm  
 https://thispointer.com/  
+Learn C++  
+https://learncplusplus.org/  
 
 ### C++ GitHub
 
@@ -198,3 +200,10 @@ Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises - Zero To M
 https://www.youtube.com/watch?v=lzKeecy4OmQ  
 Rust Programming Course for Beginners - Tutorial  
 https://www.youtube.com/watch?v=MsocPEZBd-M  
+
+## Delphi/Free Pascal
+
+Learn Delphi  
+https://learndelphi.org/  
+Marco Cantu  
+https://www.marcocantu.com/  
