@@ -124,6 +124,8 @@ C++ POINTERS FULL COURSE Beginner to Advanced (Learn C++ Pointers in 2,5 hours)
 https://www.youtube.com/watch?v=kiUGf_Z08RQ  
 C++ Full Course for free  
 https://www.youtube.com/watch?v=-TkoO8Z07hI  
+C++ Programming All-in-One Tutorial Series (10 HOURS!)  
+https://www.youtube.com/watch?v=_bYFu9mBnr4  
 
 ## C
 
@@ -164,11 +166,13 @@ https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
 ### C Youtube Full Courses
 
 Learn C Programming with Dr. Chuck (feat. classic book by Kernighan and Ritchie)  
-https://www.youtube.com/watch?v=j-_s8f5K30I&t=14602s  
+https://www.youtube.com/watch?v=j-_s8f5K30I&t  
 C Programming Full Course for free   
-https://www.youtube.com/watch?v=87SH2Cn0s9A&t=4021s  
+https://www.youtube.com/watch?v=87SH2Cn0s9A&t  
 C Programming for Beginners - Full Course  
 https://www.youtube.com/watch?v=ssJY5MDLjlo  
+C Programming All-in-One Tutorial Series (10 HOURS!)  
+https://www.youtube.com/watch?v=Bz4MxDeEM6k  
 
 ## xBase (Harbour/xHarbour/Clipper/others)
 
