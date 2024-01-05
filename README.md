@@ -39,6 +39,8 @@ OpenCV
 https://opencv.org/  
 Asio C++ Library  
 https://think-async.com/Asio/  
+wxWidgets - Cross Platform GUI Library  
+https://www.wxwidgets.org/  
 
 ### C++ books
 
@@ -276,3 +278,33 @@ Learn Go Programming by Building 11 Projects – Full Course
 https://www.youtube.com/watch?v=jFfo23yIWac  
 Learn Go Programming - Golang Tutorial for Beginners  
 https://www.youtube.com/watch?v=YS4e4q9oBaU  
+
+## Python
+
+Python  
+https://www.python.org/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Python_(programming_language)  
+https://pt.wikipedia.org/wiki/Python  
+
+### Python Youtube Channels
+
+### Python Youtune Playlist
+
+Curso de Python 3 - Mundo 1: Fundamentos  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6  
+Curso de Python 3 - Mundo 2: Estruturas de Controle  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye  
+Curso de Python 3 - Mundo 3: Estruturas Compostas  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH  
+Exercícios de Python 3  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-  
+
+### Python Youtube Full Courses
+
+Python Full Course for free  
+https://www.youtube.com/watch?v=XKHEtdqhLK8  
+Learn Python - Full Course for Beginners [Tutorial]  
+https://www.youtube.com/watch?v=rfscVS0vtbw  
+Python Full Course - 12 Hours - Python For Beginners - Full Course - Python Tutorial - Edureka  
+https://www.youtube.com/watch?v=WGJJIrtnfpk&list  
