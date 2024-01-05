@@ -32,7 +32,7 @@ https://cpp.sh/
 Boost C++ Libraries  
 https://www.boost.org/  
 POCO C++ Libraries  
-https://pocoproject.org/index.html  
+https://pocoproject.org/  
 Qt Framework  
 https://www.qt.io/  
 OpenCV  
@@ -41,6 +41,8 @@ Asio C++ Library
 https://think-async.com/Asio/  
 wxWidgets - Cross-Platform GUI Library  
 https://www.wxwidgets.org/  
+FLTK - Fast Light Toolkit  
+https://www.fltk.org/  
 
 ### C++ books
 
