@@ -39,7 +39,7 @@ OpenCV
 https://opencv.org/  
 Asio C++ Library  
 https://think-async.com/Asio/  
-wxWidgets - Cross Platform GUI Library  
+wxWidgets - Cross-Platform GUI Library  
 https://www.wxwidgets.org/  
 
 ### C++ books
@@ -289,7 +289,7 @@ https://pt.wikipedia.org/wiki/Python
 
 ### Python Youtube Channels
 
-### Python Youtune Playlist
+### Python Youtube Playlists
 
 Curso de Python 3 - Mundo 1: Fundamentos  
 https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6  
