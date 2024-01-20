@@ -180,9 +180,31 @@ https://www.youtube.com/watch?v=Bz4MxDeEM6k
 
 ## xBase (Harbour/xHarbour/Clipper/others)
 
+### GitHub Projects
+
+Harbour Project  
 https://github.com/harbour/core  
+Harbour fork (Viktor Szakats)  
 https://github.com/vszakats/hb  
+xHarbour  
 https://github.com/xHarbour-org/xharbour  
+
+### SourceForge Projects
+
+Harbour Project  
+https://sourceforge.net/projects/harbour-project/  
+xHarbour Extended Harbour Compiler  
+https://sourceforge.net/projects/xharbour/  
+HwGUI  
+https://sourceforge.net/projects/hwgui/  
+HMG  
+https://sourceforge.net/projects/hmg/  
+xHGtk  
+https://sourceforge.net/projects/xhgtk/  
+xbgtk - an xbase OO wrapper for GTK+  
+https://sourceforge.net/projects/xbgtk/  
+T-Gtk GUI for [x]Harbour  
+https://sourceforge.net/projects/t-gtk/  
 
 ### xBase Youtube Channels
 
@@ -310,3 +332,26 @@ Learn Python - Full Course for Beginners [Tutorial]
 https://www.youtube.com/watch?v=rfscVS0vtbw  
 Python Full Course - 12 Hours - Python For Beginners - Full Course - Python Tutorial - Edureka  
 https://www.youtube.com/watch?v=WGJJIrtnfpk&list  
+
+## Java
+
+Java  
+https://www.java.com/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Java_(programming_language)  
+https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)  
+Java Tutorial  
+https://www.w3schools.com/java/default.asp  
+
+### Java Youtube Channels
+
+### Java Youtube Playlists
+
+### Java Youtube Full Courses
+
+Java Full Course 2023 | Core Java Full Course | Java Tutorial For Beginners | Simplilearn  
+https://www.youtube.com/watch?v=4Vbr_p-8nQw  
+JAVA Full Course In 12 Hours | Learn Java For Beginners 2024 | Java Full Course Simplilearn  
+https://www.youtube.com/watch?v=pz8xou3zceE  
+Java Projects Course 2023 | Java Projects With Source Code | Java Projects for Beginners|Simplilearn  
+https://www.youtube.com/watch?v=s7ZLgRpdGLU  
