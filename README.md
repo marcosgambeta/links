@@ -117,6 +117,9 @@ Learn C++ With Me
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3  
 C++ Programming (Neso Academy)  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS  
+C++ Programming Tutorial for Beginners  
+Learn C++ Programming  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIbOXGxcz9lLTe-o-Jvm9pKc  
 
 ### C++ Youtube Full Courses
 
@@ -166,6 +169,10 @@ C Programming (Neso Academy)
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR  
 C Programming & Data Structures (Neso Academy)  
 https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM  
+C Programming Tutorial for Beginners | Learn C Programming Language Tutorial  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIZFMIqY6IMCBkcAQTEvMEIo  
+C Programming Interview Questions  
+https://www.youtube.com/watch?v=6e23Xh3vrsE&list=PLS1QulWo1RIYDCWPThO1x2NXv0SAzd5SA  
 
 ### C Youtube Full Courses
 
@@ -355,3 +362,64 @@ JAVA Full Course In 12 Hours | Learn Java For Beginners 2024 | Java Full Course 
 https://www.youtube.com/watch?v=pz8xou3zceE  
 Java Projects Course 2023 | Java Projects With Source Code | Java Projects for Beginners|Simplilearn  
 https://www.youtube.com/watch?v=s7ZLgRpdGLU  
+
+## PostgreSQL
+
+PostgreSQL  
+https://www.postgresql.org/  
+Wikipedia  
+https://en.wikipedia.org/wiki/PostgreSQL  
+https://pt.wikipedia.org/wiki/PostgreSQL  
+PostgreSQL Tutorial  
+https://www.w3schools.com/postgresql/index.php  
+
+### PostgreSQL Youtube Channels
+
+### PostgreSQL Youtube Playlists
+
+SQL and PostgreSQL The Complete Training Course  
+https://www.youtube.com/playlist?list=PL7D4X4pSOcCGoKVKDNjeKLRDK4TNRxc1x  
+PosgresSQL Course  
+https://www.youtube.com/playlist?list=PLwvrYc43l1MxAEOI_KwGe8l42uJxMoKeS  
+PostgreSQL  Administration : Full course(courses.emultiskills.com)  
+https://www.youtube.com/playlist?list=PL3WN5UzLiADd-sjn-aPVVfBlkXPO9IoG7  
+Complete PostgreSQL Course for Beginners  
+https://www.youtube.com/playlist?list=PLL_LQvNX4xKxq57Vs1PYCfH6FI4socDWS  
+Curso de PostgreSQL - Bancos de Dados  
+https://www.youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY  
+PostgreSQL Tutorial for Beginners | Learn SQL Queries using PostgreSQL and PgAdmin 4 | Beginner's Guide to PostgreSQL  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIa-sDLWbP01sEnlm_Bxmvqs  
+PostgreSQL Tutorials : Learn PostgreSQL From Beginning to Advanced  
+https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x  
+PostgreSQL Tutorial : Advanced Tutorials  
+https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2  
+
+### PostgreSQL Youtube Full Courses
+
+PostgreSQL Tutorial for Beginners  
+https://www.youtube.com/watch?v=SpfIwlAYaKk  
+PostgreSQL Tutorial Full Course 2022  
+https://www.youtube.com/watch?v=85pG_pDkITY  
+Learn PostgreSQL Tutorial - Full Course for Beginners  
+https://www.youtube.com/watch?v=qw--VYLpxG4  
+Learn PostgreSQL Database Administration (DBA) for Beginners - Full Course  
+https://www.youtube.com/watch?v=eESMCA2O7TU  
+PostgreSQL Tutorial For Beginners | What Is PostgreSQL? | Learn PostgreSQL | Simplilearn  
+https://www.youtube.com/watch?v=eMIxuk0nOkU  
+
+## MySQL
+
+MySQL  
+https://www.mysql.com/  
+Wikipedia  
+https://en.wikipedia.org/wiki/MySQL  
+https://pt.wikipedia.org/wiki/MySQL  
+
+### MySQL Youtube Channels
+
+### MySQL Youtube Playlists
+
+MySQL Tutorial For Beginners | Edureka  
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG  
+
+### MySQL Youtube Full Courses
