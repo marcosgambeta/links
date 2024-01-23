@@ -57,17 +57,26 @@ https://www.packtpub.com/free-ebook/the-c-workshop/9781839216626
 
 ### C++ references
 
+C++ Reference  
 https://en.cppreference.com/w/  
+cplusplus.com  
 https://cplusplus.com/  
+Microsoft C++, C, and Assembler documentation  
 https://learn.microsoft.com/en-us/cpp/  
+cprogramming.com  
 https://www.cprogramming.com/  
+Fred: C++ Notes:  
 http://www.fredosaurus.com/notes-cpp/  
+C++ FAQ  
 http://www.parashift.com/c++-faq-lite/  
 C++ Tutorial  
 https://www.tutorialspoint.com/cplusplus/index.htm  
+thisPointer  
 https://thispointer.com/  
 Learn C++  
 https://learncplusplus.org/  
+C++ Tutorial  
+https://www.w3schools.com/cpp/default.asp  
 
 ### C++ GitHub
 
@@ -141,6 +150,8 @@ https://en.wikipedia.org/wiki/C_(programming_language)
 https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)  
 C Tutorial  
 https://www.tutorialspoint.com/cprogramming/index.htm  
+C Tutorial  
+https://www.w3schools.com/c/index.php  
 
 ### C compilers
 
@@ -317,6 +328,8 @@ https://www.python.org/
 Wikipedia  
 https://en.wikipedia.org/wiki/Python_(programming_language)  
 https://pt.wikipedia.org/wiki/Python  
+Python Tutorial  
+https://www.w3schools.com/python/default.asp  
 
 ### Python Youtube Channels
 
@@ -330,6 +343,8 @@ Curso de Python 3 - Mundo 3: Estruturas Compostas
 https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH  
 Exercícios de Python 3  
 https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-  
+Python Tutorials for Beginners  
+https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc  
 
 ### Python Youtube Full Courses
 
@@ -337,8 +352,10 @@ Python Full Course for free
 https://www.youtube.com/watch?v=XKHEtdqhLK8  
 Learn Python - Full Course for Beginners [Tutorial]  
 https://www.youtube.com/watch?v=rfscVS0vtbw  
-Python Full Course - 12 Hours - Python For Beginners - Full Course - Python Tutorial - Edureka  
+Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka  
 https://www.youtube.com/watch?v=WGJJIrtnfpk&list  
+Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours  
+https://www.youtube.com/watch?v=H2EJuAcrZYU  
 
 ## Java
 
