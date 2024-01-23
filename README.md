@@ -371,6 +371,9 @@ https://www.w3schools.com/java/default.asp
 
 ### Java Youtube Playlists
 
+Java Tutorial For Beginners | Edureka  
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ  
+
 ### Java Youtube Full Courses
 
 Java Full Course 2023 | Core Java Full Course | Java Tutorial For Beginners | Simplilearn  
