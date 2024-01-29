@@ -226,10 +226,14 @@ https://sourceforge.net/projects/t-gtk/
 
 ### xBase Youtube Channels
 
+Alaska Software  
+https://www.youtube.com/@alaskasoftware  
 All-About-Code  
 https://www.youtube.com/@all-about-code9676  
 dBaseLLC  
 https://www.youtube.com/@dBaseLLC  
+Harbour Magazine José Luis Sánchez  
+https://www.youtube.com/@harbourmagazinejoseluissan7660  
 Ivanil Marcelino  
 https://www.youtube.com/@IvanilMarcelino  
 Ricardo Mansano  
@@ -345,6 +349,8 @@ Exercícios de Python 3
 https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-  
 Python Tutorials for Beginners  
 https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc  
+Python Language Full Course (2024)  
+https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0  
 
 ### Python Youtube Full Courses
 
@@ -437,9 +443,62 @@ https://pt.wikipedia.org/wiki/MySQL
 
 ### MySQL Youtube Channels
 
+MySql  
+https://www.youtube.com/@mysql  
+
 ### MySQL Youtube Playlists
 
 MySQL Tutorial For Beginners | Edureka  
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOGECN1oA2iXcWFBTRYUxzQG  
+Curso de Banco de Dados MySQL  
+https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r  
+Curso de SQL com MySQL (Completo)  
+https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk  
+Curso de MySQL  
+https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR  
+MySQL tutorial for beginners 🐬  
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ  
+MySQL Complete Tutorial for Beginners 2022  
+https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E  
 
 ### MySQL Youtube Full Courses
+
+MySQL Full Course for free 🐬 (2023)  
+https://www.youtube.com/watch?v=5OdVJbNCSso  
+Complete MySQL Beginner to Expert  
+https://www.youtube.com/watch?v=en6YPAgc6WM&t  
+SQL Tutorial for Beginners (and Technical Interview Questions Solved)  
+https://www.youtube.com/watch?v=-fW2X7fh7Yg  
+MySQL Database - Full Course  
+https://www.youtube.com/watch?v=ER8oKX5myE0  
+
+## JavaScript
+
+JavaScript  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript  
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript  
+Wikipedia  
+https://en.wikipedia.org/wiki/JavaScript  
+https://pt.wikipedia.org/wiki/JavaScript  
+
+### JavaScript Youtube Channels
+
+### JavaScript Youtube Playlists
+
+The Complete JavaScript Course 2023  
+https://www.youtube.com/playlist?list=PLOmL3sL-afbRVTvedkIrQcDwg2UY0JGTF  
+JavaScript Full Course (2024) - Beginners to Pro  
+https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW  
+
+### JavaScript Full Courses
+
+JavaScript Full Course - Beginner to Pro - Part 1  
+https://www.youtube.com/watch?v=SBmSRK3feww  
+JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours  
+https://www.youtube.com/watch?v=EfAl9bwzVZk  
+JavaScript Functions Crash Course  
+https://www.youtube.com/watch?v=j1laALb8OVM  
+JavaScript DOM Manipulation – Full Course for Beginners  
+https://www.youtube.com/watch?v=5fb2aPlgoys  
+JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advanced  
+https://www.youtube.com/watch?v=xc3a_CJhjCc  
