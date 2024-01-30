@@ -129,6 +129,8 @@ https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS
 C++ Programming Tutorial for Beginners  
 Learn C++ Programming  
 https://www.youtube.com/playlist?list=PLS1QulWo1RIbOXGxcz9lLTe-o-Jvm9pKc  
+C++ Full Course  
+https://www.youtube.com/playlist?list=PLLhBy6YSIT0CKq2wFjmVF1Yz33jQgNJQ-  
 
 ### C++ Youtube Full Courses
 
@@ -379,6 +381,8 @@ https://www.w3schools.com/java/default.asp
 
 Java Tutorial For Beginners | Edureka  
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ  
+Java Tutorial for Beginners  
+https://www.youtube.com/playlist?list=PLrAIlmvYyRgx9J0MJsliNnSo4oEqNddsR  
 
 ### Java Youtube Full Courses
 
@@ -460,6 +464,8 @@ MySQL tutorial for beginners 🐬
 https://www.youtube.com/playlist?list=PLZPZq0r_RZOMskz6MdsMOgxzheIyjo-BZ  
 MySQL Complete Tutorial for Beginners 2022  
 https://www.youtube.com/playlist?list=PLjVLYmrlmjGeyCPgdHL2vWmEGKxcpsC0E  
+Bases de Dados MySQL  
+https://www.youtube.com/playlist?list=PL50rZONmv8ZRD2YnIAJnnb1iweRDanSV_  
 
 ### MySQL Youtube Full Courses
 
@@ -502,3 +508,41 @@ JavaScript DOM Manipulation – Full Course for Beginners
 https://www.youtube.com/watch?v=5fb2aPlgoys  
 JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advanced  
 https://www.youtube.com/watch?v=xc3a_CJhjCc  
+
+## Kotlin
+
+Kotlin  
+https://kotlinlang.org/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Kotlin_(programming_language)  
+https://pt.wikipedia.org/wiki/Kotlin  
+
+### Kotlin Youtube Channels
+
+### Kotlin Youtube Playlists
+
+Kotlin Complete Course 2023 from Scratch | Beginner to Advanced  
+https://www.youtube.com/playlist?list=PLLhBy6YSIT0AwO3-xw_ht6ty3YD7NCa0N  
+Curso de Kotlin Para Iniciantes  
+https://www.youtube.com/playlist?list=PLizN3WA8HR1z1HJy0uSjNe4zhmzJNplb3  
+CURSO DE KOTLIN  
+https://www.youtube.com/playlist?list=PLizN3WA8HR1y-gzHM7kTQTlyS0GLUXO8a  
+Desenvolvimento de apps Android com Kotlin 2023  
+https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40  
+Curso Kotlin Básico  
+https://www.youtube.com/playlist?list=PLZDjneGuE1Qa5OU3KRBFSU6blg-1eAlC-  
+
+### Kotlin Full Courses
+
+Kotlin Programming Full Tutorial 2023 | 4+ Hours Android App Development Project & Course | @SCALER  
+https://www.youtube.com/watch?v=0MdkXBssRRg  
+Learn Kotlin Programming – Full Course for Beginners  
+https://www.youtube.com/watch?v=EExSSotojVI  
+Kotlin For Java Developers Complete Course  
+https://www.youtube.com/watch?v=dMyRywABp_c  
+Android Development Course - Build Native Apps with Kotlin Tutorial  
+https://www.youtube.com/watch?v=Iz08OTTjR04  
+Android Development(Kotlin) Full Course For Beginners 2023 | 12 Hour Comprehensive Tutorial For Free  
+https://www.youtube.com/watch?v=BCSlZIUj18Y  
+Kotlin Course - Tutorial for Beginners  
+https://www.youtube.com/watch?v=F9UC9DY-vIU  
