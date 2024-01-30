@@ -1,6 +1,19 @@
-# links
+# Index
 
-## C++
+* [C](#c)
+* [C++](#cplusplus)
+* [Go](#go)
+* [Java](#java)
+* [JavaScript](#javascript)
+* [Kotlin](#kotlin)
+* [MySQL](#mysql)
+* [Pascal](#pascal-delphi-and-free-pascal)
+* [PostgreSQL](#postgresql)
+* [Python](#python)
+* [Rust](#rust)
+* [xBase](#xbase-harbourxharbourclipperothers)
+
+## CPlusPlus
 
 Standard C++ Foundation  
 News, Status & Discussion about Standard C++  
@@ -291,7 +304,14 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 Rust Programming Course for Beginners - Tutorial  
 https://www.youtube.com/watch?v=MsocPEZBd-M  
 
-## Delphi/Free Pascal
+## Pascal (Delphi and Free Pascal)
+
+Delphi  
+https://www.embarcadero.com/products/delphi  
+Free Pascal  
+https://www.freepascal.org/  
+
+### Pascal References
 
 Learn Delphi  
 https://learndelphi.org/  
