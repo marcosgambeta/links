@@ -2,6 +2,7 @@
 
 * [C](#c)
 * [C++](#cplusplus)
+* [C#](#csharp)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -144,6 +145,8 @@ Learn C++ Programming
 https://www.youtube.com/playlist?list=PLS1QulWo1RIbOXGxcz9lLTe-o-Jvm9pKc  
 C++ Full Course  
 https://www.youtube.com/playlist?list=PLLhBy6YSIT0CKq2wFjmVF1Yz33jQgNJQ-  
+C++ Course: Beginner to Advanced  
+https://www.youtube.com/playlist?list=PL2XQeYA1pjIRsb9Vp9d2mQRpbitPsOUqj  
 
 ### C++ Youtube Full Courses
 
@@ -551,6 +554,8 @@ Desenvolvimento de apps Android com Kotlin 2023
 https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40  
 Curso Kotlin Básico  
 https://www.youtube.com/playlist?list=PLZDjneGuE1Qa5OU3KRBFSU6blg-1eAlC-  
+Kotlin Course  
+https://www.youtube.com/playlist?list=PLq5Uz3LSFff_MrJt6mm8-7D4rlSArqufe  
 
 ### Kotlin Full Courses
 
@@ -566,3 +571,51 @@ Android Development(Kotlin) Full Course For Beginners 2023 | 12 Hour Comprehensi
 https://www.youtube.com/watch?v=BCSlZIUj18Y  
 Kotlin Course - Tutorial for Beginners  
 https://www.youtube.com/watch?v=F9UC9DY-vIU  
+
+## CSharp
+
+C# documentation  
+https://learn.microsoft.com/en-us/dotnet/csharp/  
+Wikipedia  
+https://en.wikipedia.org/wiki/C_Sharp_(programming_language)  
+https://pt.wikipedia.org/wiki/C_Sharp  
+
+### C# Youtube Channels
+
+### C# Youtube Playlists
+
+C# Tutorial For Beginners & Basics - Full Course 2022  
+https://www.youtube.com/playlist?list=PL82C6-O4XrHfoN_Y4MwGvJz5BntiL0z0D  
+C# Full Course Beginner to Advanced  
+https://www.youtube.com/playlist?list=PLq5Uz3LSFff8GmtFeoXRZCtWBKQ0kWl-H  
+C# Training 🔥[2024 Updated]  
+https://www.youtube.com/playlist?list=PLEiEAq2VkUULDJ9tZd3lc0rcH4W5SNSoW  
+C# tutorial for beginners   
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_  
+C#.NET Tutorials  
+https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef  
+
+### C# Full Courses
+
+C# Full Course for free  
+https://www.youtube.com/watch?v=wxznTygnRfQ  
+C# Tutorial - Full Course for Beginners  
+https://www.youtube.com/watch?v=GhQdlIFylQ8  
+C# Full Course : C# Tutorial for Beginners  
+https://www.youtube.com/watch?v=M5ugY7fWydE  
+C# Full Course - Learn C# 10 and .NET 6 in 7 hours  
+https://www.youtube.com/watch?v=q_F4PyW8GTg  
+Advanced C# Programming Course  
+https://www.youtube.com/watch?v=YT8s-90oDC0  
+Create a C# Application from Start to Finish - Complete Course  
+https://www.youtube.com/watch?v=wfWxdh-_k_4  
+C# Programming All-in-One Tutorial Series (6 HOURS!)  
+https://www.youtube.com/watch?v=qOruiBrXlAw  
+C# for Beginners | Full 2-hour course  
+https://www.youtube.com/watch?v=Z5JS36NlJiU  
+Free Foundational C# Certification from Microsoft – Full Course  
+https://www.youtube.com/watch?v=6GQAE7iLOhY  
+C# Tutorial For Beginners - Learn C# Basics in 1 Hour  
+https://www.youtube.com/watch?v=gfkTfcpWqAY  
+C# Fundamentals for Beginners  
+https://www.youtube.com/watch?v=0QUgvfuKvWU  
