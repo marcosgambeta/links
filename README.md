@@ -3,6 +3,7 @@
 * [C](#c)
 * [C++](#cplusplus)
 * [C#](#csharp)
+* [Flutter](#flutter)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -213,6 +214,8 @@ C Programming for Beginners - Full Course
 https://www.youtube.com/watch?v=ssJY5MDLjlo  
 C Programming All-in-One Tutorial Series (10 HOURS!)  
 https://www.youtube.com/watch?v=Bz4MxDeEM6k  
+C Language Tutorial for Beginners (With Notes) 🔥  
+https://www.youtube.com/watch?v=_MF8L7ZxwRE  
 
 ## xBase (Harbour/xHarbour/Clipper/others)
 
@@ -376,6 +379,8 @@ Python Tutorials for Beginners
 https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc  
 Python Language Full Course (2024)  
 https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0  
+Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka  
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6  
 
 ### Python Youtube Full Courses
 
@@ -384,9 +389,17 @@ https://www.youtube.com/watch?v=XKHEtdqhLK8
 Learn Python - Full Course for Beginners [Tutorial]  
 https://www.youtube.com/watch?v=rfscVS0vtbw  
 Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka  
-https://www.youtube.com/watch?v=WGJJIrtnfpk&list  
+https://www.youtube.com/watch?v=WGJJIrtnfpk  
 Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours  
 https://www.youtube.com/watch?v=H2EJuAcrZYU  
+Python For Beginners - 10 Hour Course [2024]  
+https://www.youtube.com/watch?v=c2zRCespYas  
+FREE Python Course for Beginners 2024 (13 HOURS) - Code With Josh  
+https://www.youtube.com/watch?v=rM-jDeSgOQw  
+The complete guide to Python  
+https://www.youtube.com/watch?v=mDKM-JtUhhc  
+Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]  
+https://www.youtube.com/watch?v=t8pPdKYpowI  
 
 ## Java
 
@@ -500,6 +513,8 @@ SQL Tutorial for Beginners (and Technical Interview Questions Solved)
 https://www.youtube.com/watch?v=-fW2X7fh7Yg  
 MySQL Database - Full Course  
 https://www.youtube.com/watch?v=ER8oKX5myE0  
+MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn  
+https://www.youtube.com/watch?v=SycDH3NSJUU  
 
 ## JavaScript
 
@@ -531,6 +546,8 @@ JavaScript DOM Manipulation – Full Course for Beginners
 https://www.youtube.com/watch?v=5fb2aPlgoys  
 JavaScript Mastery Complete Course | JavaScript Tutorial For Beginner to Advanced  
 https://www.youtube.com/watch?v=xc3a_CJhjCc  
+Learn JavaScript - Full Course for Beginners  
+https://www.youtube.com/watch?v=PkZNo7MFNFg  
 
 ## Kotlin
 
@@ -619,3 +636,31 @@ C# Tutorial For Beginners - Learn C# Basics in 1 Hour
 https://www.youtube.com/watch?v=gfkTfcpWqAY  
 C# Fundamentals for Beginners  
 https://www.youtube.com/watch?v=0QUgvfuKvWU  
+Introduction to ASP.NET Core MVC (.NET 8)  
+https://www.youtube.com/watch?v=AopeJjkcRvU  
+
+## Flutter
+
+Flutter  
+https://flutter.dev/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Flutter_(software)  
+https://pt.wikipedia.org/wiki/Flutter  
+
+
+### Flutter Youtube Channels
+
+### Flutter Youtube Playlists
+
+### Flutter Full Courses
+
+Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial  
+https://www.youtube.com/watch?v=VPvVD8t02U8  
+Flutter Tutorial For Beginners in 13 Hours  
+https://www.youtube.com/watch?v=BiOSCpV-lts  
+Flutter Tutorial - Full Course - Project Based  
+https://www.youtube.com/watch?v=OO_-MbnXQzY  
+The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced  
+https://www.youtube.com/watch?v=CzRQ9mnmh44  
+Dart Programming Tutorial For Absolute Beginners | Master Dart In 8 Hours | Flutter Tutorial Pt 1  
+https://www.youtube.com/watch?v=Fqcsow_7go4  
