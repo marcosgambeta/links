@@ -289,6 +289,8 @@ https://rust.code-maven.com/
 
 ### Rust Youtube Channels
 
+Rust  
+https://www.youtube.com/@RustVideos  
 Let's Get Rusty  
 https://www.youtube.com/@letsgetrusty  
 
