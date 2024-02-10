@@ -8,11 +8,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [MySQL](#mysql)
 * [Pascal](#pascal-delphi-and-free-pascal)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Rust](#rust)
+* [SQL](#sql)
 * [xBase](#xbase-harbourxharbourclipperothers)
 
 ## CPlusPlus
@@ -402,6 +404,14 @@ The complete guide to Python
 https://www.youtube.com/watch?v=mDKM-JtUhhc  
 Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]  
 https://www.youtube.com/watch?v=t8pPdKYpowI  
+Intermediate Python Programming Course  
+https://www.youtube.com/watch?v=HGOBQPFzWKo  
+9 HOURS of Python Projects - From Beginner to Advanced  
+https://www.youtube.com/watch?v=NpmFbWO6HPU  
+Automate with Python – Full Course for Beginners  
+https://www.youtube.com/watch?v=PXMJ6FS7llk  
+Curso de PYTHON para WEB desde cero  
+https://www.youtube.com/watch?v=n2YrGsXJC6Y  
 
 ## Java
 
@@ -640,6 +650,8 @@ C# Fundamentals for Beginners
 https://www.youtube.com/watch?v=0QUgvfuKvWU  
 Introduction to ASP.NET Core MVC (.NET 8)  
 https://www.youtube.com/watch?v=AopeJjkcRvU  
+.NET Microservices – Full Course for Beginners  
+https://www.youtube.com/watch?v=CqCDOosvZIk  
 
 ## Flutter
 
@@ -648,7 +660,6 @@ https://flutter.dev/
 Wikipedia  
 https://en.wikipedia.org/wiki/Flutter_(software)  
 https://pt.wikipedia.org/wiki/Flutter  
-
 
 ### Flutter Youtube Channels
 
@@ -666,3 +677,76 @@ The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Ad
 https://www.youtube.com/watch?v=CzRQ9mnmh44  
 Dart Programming Tutorial For Absolute Beginners | Master Dart In 8 Hours | Flutter Tutorial Pt 1  
 https://www.youtube.com/watch?v=Fqcsow_7go4  
+
+## Linux
+
+Linux  
+https://www.linux.com/  
+https://www.linuxfoundation.org/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Linux  
+https://pt.wikipedia.org/wiki/Linux  
+
+### Linux Youtube Channels
+
+Learn Linux TV  
+https://www.youtube.com/@LearnLinuxTV  
+tutoriaLinux  
+https://www.youtube.com/@tutoriaLinux  
+
+### Linux Youtube Playlists
+
+Linux Crash Course  
+https://www.youtube.com/playlist?list=PLT98CRl2KxKHKd_tH3ssq0HPrThx2hESW  
+The Linux Basics Course: Beginner to Sysadmin, Step by Step  
+https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK  
+Linux Masterclass Course - A Complete Tutorial From Beginners   
+https://www.youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i  
+Linux Command Line Tutorial For Beginners | Bash Terminal | Linux Terminal  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As  
+Linux Administration Tutorial Videos  
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik  
+Ubuntu Linux Tutorials for Beginners  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIaS1s08yM5FGzPkXXKStVTX  
+Linux Command Line Basics Tutorials  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIakPAwz5ZymwS1XQilH0uEn  
+Shell Scripting Tutorial for Beginners  
+https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_  
+
+### Linux Full Courses
+
+Introduction to Linux – Full Course for Beginners  
+https://www.youtube.com/watch?v=sWbUDq4S6Y8  
+Linux Operating System - Crash Course for Beginners  
+https://www.youtube.com/watch?v=ROjZy1WbCIA  
+Linux Full Course - 11 Hours [2024] | Linux Tutorial For Beginners | Linux Training | Edureka  
+https://www.youtube.com/watch?v=bz0ZCUv5rYo  
+Linux System Administration Full Course  
+https://www.youtube.com/watch?v=UCr04qIB7uc  
+Linux Course | 12 Hours | For DeVops | Cybersecurity | Networking  
+https://www.youtube.com/watch?v=gqhQ8XTlzX4  
+Linux For Beginners - Full Course [NEW]  
+https://www.youtube.com/watch?v=pkZEKIXe3u4  
+The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners  
+https://www.youtube.com/watch?v=ZtqBQ68cfJc  
+Linux Server Course - System Configuration and Operation  
+https://www.youtube.com/watch?v=WMy3OzvBWc0  
+O Curso Completo de Linux: Iniciante para o Power User!  
+https://www.youtube.com/watch?v=wBp0Rb-ZJak  
+Linux Command Line Full Course | Beginners To Experts | Bash Command Line Tutorials  
+https://www.youtube.com/watch?v=SjQmo5tJB4c  
+
+## SQL
+
+Wikipedia  
+https://en.wikipedia.org/wiki/SQL  
+https://pt.wikipedia.org/wiki/SQL  
+
+### SQL Youtube Channels
+
+### SQL Youtube Playlists
+
+### SQL Full Courses
+
+Curso de SQL y BASES DE DATOS Desde Cero para PRINCIPIANTES  
+https://www.youtube.com/watch?v=OuJerKzV5T0  
