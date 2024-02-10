@@ -150,6 +150,10 @@ C++ Full Course
 https://www.youtube.com/playlist?list=PLLhBy6YSIT0CKq2wFjmVF1Yz33jQgNJQ-  
 C++ Course: Beginner to Advanced  
 https://www.youtube.com/playlist?list=PL2XQeYA1pjIRsb9Vp9d2mQRpbitPsOUqj  
+Linked List Complete Course Using C++ | Introduction to Linked List | Data Structures & Algorithms | Easy to Har Level Coding Questions  
+https://www.youtube.com/playlist?list=PLLhBy6YSIT0AObjhfXVn2wHR4PqyS9s_y  
+C++ Tutorials  
+https://www.youtube.com/playlist?list=PLLhBy6YSIT0Dpv6Oae4YcVnvt0X55R5qH  
 
 ### C++ Youtube Full Courses
 
