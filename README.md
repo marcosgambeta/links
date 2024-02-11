@@ -173,10 +173,15 @@ https://www.youtube.com/watch?v=_bYFu9mBnr4
 Wikipedia  
 https://en.wikipedia.org/wiki/C_(programming_language)  
 https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)  
+
+### C References
+
 C Tutorial  
 https://www.tutorialspoint.com/cprogramming/index.htm  
 C Tutorial  
 https://www.w3schools.com/c/index.php  
+A programmer's guide to GNU C Compiler  
+https://opensource.com/article/22/5/gnu-c-compiler  
 
 ### C compilers
 
@@ -185,6 +190,8 @@ http://www.smorgasbordet.com/pellesc/
 
 ### C Libraries
 
+GTK  
+https://www.gtk.org/  
 GLFW  
 https://www.glfw.org/  
 
@@ -389,6 +396,8 @@ Python Language Full Course (2024)
 https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0  
 Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka  
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6  
+Python (Full Course)  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGGqjSvX8h5JQIymbYfzEMWd  
 
 ### Python Youtube Full Courses
 
@@ -416,6 +425,8 @@ Automate with Python – Full Course for Beginners
 https://www.youtube.com/watch?v=PXMJ6FS7llk  
 Curso de PYTHON para WEB desde cero  
 https://www.youtube.com/watch?v=n2YrGsXJC6Y  
+SQLite Databases With Python - Full Course  
+https://www.youtube.com/watch?v=byHcYRpMgI4  
 
 ## Java
 
@@ -435,6 +446,12 @@ Java Tutorial For Beginners | Edureka
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ  
 Java Tutorial for Beginners  
 https://www.youtube.com/playlist?list=PLrAIlmvYyRgx9J0MJsliNnSo4oEqNddsR  
+Learn Core Java in 70 hours  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGG4FuiN__VlxRAv8-cdqoTE  
+Java Programs for Interviews (Full Course)  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGGX_f8J-72CS8ikTjl-6qKJ  
+Core Java (Full Course)  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGFZ7xMUxJBE33FWWykEWm49  
 
 ### Java Youtube Full Courses
 
@@ -475,6 +492,8 @@ PostgreSQL Tutorials : Learn PostgreSQL From Beginning to Advanced
 https://www.youtube.com/playlist?list=PLk1kxccoEnNEtwGZW-3KAcAlhI_Guwh8x  
 PostgreSQL Tutorial : Advanced Tutorials  
 https://www.youtube.com/playlist?list=PLk1kxccoEnNHlAR2ggnzIkOc7jxqI-_w2  
+PostgresSQL  
+https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj  
 
 ### PostgreSQL Youtube Full Courses
 
@@ -531,8 +550,6 @@ MySQL Database - Full Course
 https://www.youtube.com/watch?v=ER8oKX5myE0  
 MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn  
 https://www.youtube.com/watch?v=SycDH3NSJUU  
-MySQL Tutorial for Beginners [Full Course]  
-https://www.youtube.com/watch?v=7S_tz1z_5bA  
 
 ## JavaScript
 
@@ -551,6 +568,8 @@ The Complete JavaScript Course 2023
 https://www.youtube.com/playlist?list=PLOmL3sL-afbRVTvedkIrQcDwg2UY0JGTF  
 JavaScript Full Course (2024) - Beginners to Pro  
 https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW  
+JavaScript (Full Course)  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGHet5_4Ro3x9BpWzGagh9Xm  
 
 ### JavaScript Full Courses
 
@@ -629,6 +648,8 @@ C# tutorial for beginners
 https://www.youtube.com/playlist?list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_  
 C#.NET Tutorials  
 https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef  
+C#.Net  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGFJL4NBbAms81IhNZtskhWe  
 
 ### C# Full Courses
 
@@ -658,6 +679,8 @@ Introduction to ASP.NET Core MVC (.NET 8)
 https://www.youtube.com/watch?v=AopeJjkcRvU  
 .NET Microservices – Full Course for Beginners  
 https://www.youtube.com/watch?v=CqCDOosvZIk  
+C# Tutorial For Beginners Full Course | Csharp tutorial for beginners  
+https://www.youtube.com/watch?v=GaNgIX_1yqE  
 
 ## Flutter
 
@@ -748,11 +771,64 @@ Wikipedia
 https://en.wikipedia.org/wiki/SQL  
 https://pt.wikipedia.org/wiki/SQL  
 
+## SQL References
+
+SQL Tutorial  
+https://www.w3schools.com/sql/  
+SQL Tutorial  
+https://www.tutorialspoint.com/sql/  
+SQL Tutorial  
+https://www.sqltutorial.org/  
+SQL Introduction  
+https://www.datawithbaraa.com/sql-introduction/  
+Tutorial SQL  
+https://www.devmedia.com.br/tutorial-sql/2973  
+
 ### SQL Youtube Channels
 
+Joey Blue  
+https://www.youtube.com/@joeyblue1/playlists  
+We Learn SQL  
+https://www.youtube.com/@welearnsql/videos  
+
 ### SQL Youtube Playlists
+
+We Learn SQL  
+https://www.youtube.com/playlist?list=PLVaK3MTZWeZCW__qXkqlV0FesBi9lCPiF  
+SQL (Full Course)  
+https://www.youtube.com/playlist?list=PLsjUcU8CQXGFFAhJI6qTA8owv3z9jBbpd  
+SQL Full Course [2024] | SQL Tutorial For Beginners | Edureka  
+https://www.youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU  
+Learn Complete SQL (Beginner to Advance)  
+https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ  
+SQL Course | For Beginners  
+https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO  
 
 ### SQL Full Courses
 
 Curso de SQL y BASES DE DATOS Desde Cero para PRINCIPIANTES  
 https://www.youtube.com/watch?v=OuJerKzV5T0  
+Learn SQL in 1 Hour - SQL Basics for Beginners  
+https://www.youtube.com/watch?v=9Pzj7Aj25lw  
+SQL Server Management Studio (SSMS) | Full Course  
+https://www.youtube.com/watch?v=Q8gBvsUjTLw  
+SQL Tutorial - Full Database Course for Beginners  
+https://www.youtube.com/watch?v=HXV3zeQKqGY  
+SQL For Web Developers - Complete Database Course  
+https://www.youtube.com/watch?v=KBDSJU3cGkc  
+SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO (2023)  
+https://www.youtube.com/watch?v=NTgejLheGeU  
+Database Engineering Complete Course | DBMS Complete Course  
+https://www.youtube.com/watch?v=iwRneX7GIGI  
+Oracle SQL for Beginners | SQL Complete Tutorial for Beginners | SQL Full Course | SQL Tutorial  
+https://www.youtube.com/watch?v=iuvzjf7nU1I  
+SQL Full Course | SQL Tutorial For Beginners | Learn SQL (Structured Query Language) | Edureka  
+https://www.youtube.com/watch?v=BPHAr4QGGVE  
+FULL SQL DATABASE COURSE | Beginner to Intermediate in 1 Hour  
+https://www.youtube.com/watch?v=MvcDM2nLdzI  
+SQL Full Course In 10 Hours | SQL Tutorial | Complete SQL Course For Beginners | Edureka  
+https://www.youtube.com/watch?v=q_JsgpiuY98  
+SQL Full Course | SQL For Beginners | Mysql Full Course | SQL Training | Simplilearn  
+https://www.youtube.com/watch?v=AA7i2GcTGwU  
+🔥 SQL Complete Course 2023 | Learn SQL In 8 Hours | SQL For Beginners | Simplilearn  
+https://www.youtube.com/watch?v=gxlOYz-m5WE  
