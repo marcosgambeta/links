@@ -531,6 +531,8 @@ MySQL Database - Full Course
 https://www.youtube.com/watch?v=ER8oKX5myE0  
 MySQL Full Course 2023 | MySQL Tutorial For Beginners | SQL Full Course | SQL Training | Simplilearn  
 https://www.youtube.com/watch?v=SycDH3NSJUU  
+MySQL Tutorial for Beginners [Full Course]  
+https://www.youtube.com/watch?v=7S_tz1z_5bA  
 
 ## JavaScript
 
