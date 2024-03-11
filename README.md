@@ -325,6 +325,13 @@ https://www.youtube.com/watch?v=lzKeecy4OmQ
 Rust Programming Course for Beginners - Tutorial  
 https://www.youtube.com/watch?v=MsocPEZBd-M  
 
+### Facebook
+
+Rust Developers  
+https://www.facebook.com/groups/1412062792318164  
+Rust Programming Language  
+https://www.facebook.com/groups/872919370237098  
+
 ## Pascal (Delphi and Free Pascal)
 
 Delphi  
