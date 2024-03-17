@@ -11,6 +11,7 @@
 * [Linux](#linux)
 * [MySQL](#mysql)
 * [Pascal](#pascal-delphi-and-free-pascal)
+* [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
 * [Rust](#rust)
@@ -167,6 +168,11 @@ C++ Full Course for free
 https://www.youtube.com/watch?v=-TkoO8Z07hI  
 C++ Programming All-in-One Tutorial Series (10 HOURS!)  
 https://www.youtube.com/watch?v=_bYFu9mBnr4  
+
+### C++ Facebook Groups
+
+C++ Programming | C++ Builder | Dev-C++ | MSVC GCC | Visual C++ | Modern C  
+https://www.facebook.com/groups/cppdev  
 
 ## C
 
@@ -811,7 +817,7 @@ https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ
 SQL Course | For Beginners  
 https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO  
 
-### SQL Full Courses
+### SQL Youtube Full Courses
 
 Curso de SQL y BASES DE DATOS Desde Cero para PRINCIPIANTES  
 https://www.youtube.com/watch?v=OuJerKzV5T0  
@@ -839,3 +845,35 @@ SQL Full Course | SQL For Beginners | Mysql Full Course | SQL Training | Simplil
 https://www.youtube.com/watch?v=AA7i2GcTGwU  
 🔥 SQL Complete Course 2023 | Learn SQL In 8 Hours | SQL For Beginners | Simplilearn  
 https://www.youtube.com/watch?v=gxlOYz-m5WE  
+
+## PHP
+
+PHP  
+https://www.php.net/  
+Wikipedia  
+https://en.wikipedia.org/wiki/PHP  
+https://pt.wikipedia.org/wiki/PHP  
+
+### PHP Youtube Channels
+
+### PHP Youtube Playlists
+
+Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced  
+https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-  
+PHP Course for Beginners  
+https://www.youtube.com/playlist?list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih  
+PHP Tutorial for Beginners  
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9gksOX3Kd9KPo-O68ncT05o  
+
+### PHP Youtube Full Courses
+
+PHP Full Course for non-haters 🐘 (2023)  
+https://www.youtube.com/watch?v=zZ6vybT1HQs  
+PHP Programming Language Tutorial - Full Course  
+https://www.youtube.com/watch?v=OK_JCtrrv-c  
+PHP For Beginners | 3+ Hour Crash Course  
+https://www.youtube.com/watch?v=BUCiSSyIGGU  
+PHP For Beginners - Complete Laracasts Course  
+https://www.youtube.com/watch?v=fw5ObX8P6as  
+PHP Tutorial for Beginners - Full Course | OVER 7 HOURS!  
+https://www.youtube.com/watch?v=t0syDUSbdfE  
