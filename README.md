@@ -319,6 +319,8 @@ Rust Programming Tutorial
 https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ  
 The Rust Lang Book  
 https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8  
+Rust tutorial for beginners  
+https://www.youtube.com/playlist?list=PLe30vg_FG4OQL_nr6yR23GLUmbRiF2S0V  
 
 ### Rust Youtube Full Courses
 
