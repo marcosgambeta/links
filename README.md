@@ -246,6 +246,8 @@ Harbour fork (Viktor Szakats)
 https://github.com/vszakats/hb  
 xHarbour  
 https://github.com/xHarbour-org/xharbour  
+Harbour++  
+https://github.com/marcosgambeta/harbourpp-v1  
 
 ### SourceForge Projects
 
@@ -392,8 +394,13 @@ https://en.wikipedia.org/wiki/Python_(programming_language)
 https://pt.wikipedia.org/wiki/Python  
 Python Tutorial  
 https://www.w3schools.com/python/default.asp  
+Python Tutorial  
+https://www.tutorialspoint.com/python/  
 
 ### Python Youtube Channels
+
+Real Python  
+https://www.youtube.com/@realpython  
 
 ### Python Youtube Playlists
 
@@ -413,6 +420,8 @@ Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tuto
 https://www.youtube.com/playlist?list=PL9ooVrP1hQOE4KoZLUP4LgBwFH2IJCQs6  
 Python (Full Course)  
 https://www.youtube.com/playlist?list=PLsjUcU8CQXGGqjSvX8h5JQIymbYfzEMWd  
+Python Tips  
+https://www.youtube.com/playlist?list=PLP8GkvaIxJP3ignHY_Dq7bFsvwzAcqZ1i  
 
 ### Python Youtube Full Courses
 
