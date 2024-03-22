@@ -401,6 +401,8 @@ https://www.tutorialspoint.com/python/
 
 Real Python  
 https://www.youtube.com/@realpython  
+Usando Python  
+https://www.youtube.com/@usandopython  
 
 ### Python Youtube Playlists
 
