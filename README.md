@@ -676,6 +676,8 @@ C#.NET Tutorials
 https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef  
 C#.Net  
 https://www.youtube.com/playlist?list=PLsjUcU8CQXGFJL4NBbAms81IhNZtskhWe  
+C# Tutorials for Beginners  
+https://www.youtube.com/playlist?list=PLeBAXy1yQxa56IGa4u7qNmWaEnaEbpLd2  
 
 ### C# Full Courses
 
@@ -707,6 +709,8 @@ https://www.youtube.com/watch?v=AopeJjkcRvU
 https://www.youtube.com/watch?v=CqCDOosvZIk  
 C# Tutorial For Beginners Full Course | Csharp tutorial for beginners  
 https://www.youtube.com/watch?v=GaNgIX_1yqE  
+Learn C# – Full Course with Mini-Projects  
+https://www.youtube.com/watch?v=GlGpSQsS8uc  
 
 ## Flutter
 
