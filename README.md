@@ -155,6 +155,8 @@ Linked List Complete Course Using C++ | Introduction to Linked List | Data Struc
 https://www.youtube.com/playlist?list=PLLhBy6YSIT0AObjhfXVn2wHR4PqyS9s_y  
 C++ Tutorials  
 https://www.youtube.com/playlist?list=PLLhBy6YSIT0Dpv6Oae4YcVnvt0X55R5qH  
+Linguagem C++ | Curso Básico  
+https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6IIWbhzeALg8CHiSdYjPW_  
 
 ### C++ Youtube Full Courses
 
@@ -210,6 +212,9 @@ https://www.packtpub.com/free-ebook/extreme-c/9781789343625
 
 ### C Youtube Channels
 
+Programação Descomplicada | Linguagem C  
+https://www.youtube.com/@progdescomplicada  
+
 ### C Youtube Playlists
 
 Pointers in C/C++ - Full Course for Beginners  
@@ -222,6 +227,10 @@ C Programming Tutorial for Beginners | Learn C Programming Language Tutorial
 https://www.youtube.com/playlist?list=PLS1QulWo1RIZFMIqY6IMCBkcAQTEvMEIo  
 C Programming Interview Questions  
 https://www.youtube.com/watch?v=6e23Xh3vrsE&list=PLS1QulWo1RIYDCWPThO1x2NXv0SAzd5SA  
+Linguagem C | Curso Completo  
+https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp  
+Estrutura de Dados em Linguagem C | Curso Completo  
+https://www.youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4Gm0H89sybzR9yaaka  
 
 ### C Youtube Full Courses
 
