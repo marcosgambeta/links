@@ -170,6 +170,10 @@ C++ Full Course for free
 https://www.youtube.com/watch?v=-TkoO8Z07hI  
 C++ Programming All-in-One Tutorial Series (10 HOURS!)  
 https://www.youtube.com/watch?v=_bYFu9mBnr4  
+C++ tutorial for Beginners 2024 | From Zero to becoming a Pro developer  
+https://www.youtube.com/watch?v=Sr-QWuL_pUI  
+C++ Design Patterns and Behavioural | C++ Master Course  
+https://www.youtube.com/watch?v=h-18VKJoTzo  
 
 ### C++ Facebook Groups
 
