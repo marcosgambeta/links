@@ -610,7 +610,7 @@ https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
 JavaScript (Full Course)  
 https://www.youtube.com/playlist?list=PLsjUcU8CQXGHet5_4Ro3x9BpWzGagh9Xm  
 
-### JavaScript Full Courses
+### JavaScript Youtube Full Courses
 
 JavaScript Full Course - Beginner to Pro - Part 1  
 https://www.youtube.com/watch?v=SBmSRK3feww  
@@ -650,7 +650,7 @@ https://www.youtube.com/playlist?list=PLZDjneGuE1Qa5OU3KRBFSU6blg-1eAlC-
 Kotlin Course  
 https://www.youtube.com/playlist?list=PLq5Uz3LSFff_MrJt6mm8-7D4rlSArqufe  
 
-### Kotlin Full Courses
+### Kotlin Youtube Full Courses
 
 Kotlin Programming Full Tutorial 2023 | 4+ Hours Android App Development Project & Course | @SCALER  
 https://www.youtube.com/watch?v=0MdkXBssRRg  
@@ -692,7 +692,7 @@ https://www.youtube.com/playlist?list=PLsjUcU8CQXGFJL4NBbAms81IhNZtskhWe
 C# Tutorials for Beginners  
 https://www.youtube.com/playlist?list=PLeBAXy1yQxa56IGa4u7qNmWaEnaEbpLd2  
 
-### C# Full Courses
+### C# Youtube Full Courses
 
 C# Full Course for free  
 https://www.youtube.com/watch?v=wxznTygnRfQ  
@@ -724,6 +724,8 @@ C# Tutorial For Beginners Full Course | Csharp tutorial for beginners
 https://www.youtube.com/watch?v=GaNgIX_1yqE  
 Learn C# – Full Course with Mini-Projects  
 https://www.youtube.com/watch?v=GlGpSQsS8uc  
+Learn C# FREE Tutorial Course Beginner to Advanced! [2024 - 12 HOURS]  
+https://www.youtube.com/watch?v=qZpMX8Re_2Q  
 
 ## Flutter
 
@@ -737,7 +739,7 @@ https://pt.wikipedia.org/wiki/Flutter
 
 ### Flutter Youtube Playlists
 
-### Flutter Full Courses
+### Flutter Youtube Full Courses
 
 Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial  
 https://www.youtube.com/watch?v=VPvVD8t02U8  
@@ -785,7 +787,7 @@ https://www.youtube.com/playlist?list=PLS1QulWo1RIakPAwz5ZymwS1XQilH0uEn
 Shell Scripting Tutorial for Beginners  
 https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_  
 
-### Linux Full Courses
+### Linux Youtube Full Courses
 
 Introduction to Linux – Full Course for Beginners  
 https://www.youtube.com/watch?v=sWbUDq4S6Y8  
