@@ -491,6 +491,12 @@ Java Programs for Interviews (Full Course)
 https://www.youtube.com/playlist?list=PLsjUcU8CQXGGX_f8J-72CS8ikTjl-6qKJ  
 Core Java (Full Course)  
 https://www.youtube.com/playlist?list=PLsjUcU8CQXGFZ7xMUxJBE33FWWykEWm49  
+Java tutorial for beginners ☕  
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1  
+Java tutorial for beginners 2025 ☕  
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc  
+JavaFX  
+https://www.youtube.com/playlist?list=PLZPZq0r_RZOM-8vJA3NQFZB7JroDcMwev  
 
 ### Java Youtube Full Courses
 
@@ -500,6 +506,10 @@ JAVA Full Course In 12 Hours | Learn Java For Beginners 2024 | Java Full Course 
 https://www.youtube.com/watch?v=pz8xou3zceE  
 Java Projects Course 2023 | Java Projects With Source Code | Java Projects for Beginners|Simplilearn  
 https://www.youtube.com/watch?v=s7ZLgRpdGLU  
+Java Full Course for free ☕  
+https://www.youtube.com/watch?v=xk4_1vDrzzo  
+Java Full Course for free ☕ (2025)  
+https://www.youtube.com/watch?v=xTtL8E4LzTQ  
 
 ## PostgreSQL
 
