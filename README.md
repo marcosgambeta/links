@@ -416,6 +416,8 @@ Real Python
 https://www.youtube.com/@realpython  
 Usando Python  
 https://www.youtube.com/@usandopython  
+Py4all  
+https://www.youtube.com/@py4allbr  
 
 ### Python Youtube Playlists
 
