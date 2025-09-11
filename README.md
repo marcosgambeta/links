@@ -17,6 +17,7 @@
 * [Rust](#rust)
 * [SQL](#sql)
 * [xBase](#xbase-harbourxharbourclipperothers)
+* [ZIG](#zig)
 
 ## CPlusPlus
 
@@ -921,3 +922,27 @@ PHP For Beginners - Complete Laracasts Course
 https://www.youtube.com/watch?v=fw5ObX8P6as  
 PHP Tutorial for Beginners - Full Course | OVER 7 HOURS!  
 https://www.youtube.com/watch?v=t0syDUSbdfE  
+
+## ZIG
+
+ZIG  
+https://ziglang.org/  
+Wikipedia  
+https://en.wikipedia.org/wiki/Zig_(programming_language)  
+https://pt.wikipedia.org/wiki/Zig_(linguagem_de_programação)  
+
+### ZIG Youtube Channels
+
+### ZIG Youtube Playlists
+
+Learn Zig Programming – Practical Intro for Beginners  
+https://www.youtube.com/playlist?list=PLSM9kl8LlQw90M7z9J3gjKxfR4oR7JJbg  
+Beginner's Guide to Zig  
+https://www.youtube.com/playlist?list=PL0-BgRHrP_sMpEvPImEbLrLKvx2Swci_6  
+Zig in Depth  
+https://www.youtube.com/playlist?list=PLtB7CL7EG7pCw7Xy1SQC53Gl8pI7aDg9t  
+
+### ZIG Youtube Full Courses
+
+Masterclass 🚀 The Entire Zig Programming Language Explained for Beginners  
+https://www.youtube.com/watch?v=r6-70Ts2oOI  
