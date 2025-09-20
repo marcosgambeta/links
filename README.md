@@ -321,6 +321,8 @@ Rust Tutorial
 https://www.tutorialspoint.com/rust/index.htm  
 Rust Maven  
 https://rust.code-maven.com/  
+Comprehensive Rust  
+https://google.github.io/comprehensive-rust/  
 
 ### Rust Youtube Channels
 
