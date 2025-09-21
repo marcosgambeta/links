@@ -96,6 +96,8 @@ Learn C++
 https://learncplusplus.org/  
 C++ Tutorial  
 https://www.w3schools.com/cpp/default.asp  
+Learn C++  
+https://www.learncpp.com/  
 
 ### C++ GitHub
 
